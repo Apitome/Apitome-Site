@@ -1,3 +1,8 @@
 /***************************
-Add your custom styles below
-****************************
+Image Classes
+****************************/
+
+.dashboard-screenshot-md {
+  max-height: 350px;
+  margin-top: 350px; /*** Temporary Solution, please fix! ***/
+}
