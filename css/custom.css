@@ -6,3 +6,7 @@ Image Classes
   max-height: 350px;
   margin-top: 350px; /*** Temporary Solution, please fix! ***/
 }
+
+.features-5:before {
+  background: none;
+}
