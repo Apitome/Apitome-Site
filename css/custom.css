@@ -10,3 +10,14 @@ Image Classes
 .features-5:before {
   background: none;
 }
+
+@media screen and (max-width: 480px) {
+  #banner-header br {
+    display: none;
+  }
+
+  #footer-contact {
+    float: none !important;
+  }
+}
+
