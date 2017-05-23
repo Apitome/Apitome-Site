@@ -8022,3 +8022,22 @@ section[class*='elements-'] hr + .row {
     margin-bottom: 0.8125em;
   }
 }
+
+/***************************
+Add your custom styles below
+****************************/
+
+.testimonial-section {
+  padding-top: 4em;
+  padding-bottom: 4em;
+}
+
+.testimonial-image {
+  max-height: 10em;
+  margin-bottom: 0.5em;
+}
+
+h5, .h5 {
+  margin-bottom: 0.75em;
+}
+
